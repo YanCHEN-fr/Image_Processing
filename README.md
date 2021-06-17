@@ -59,7 +59,7 @@ In this project, the paper[1] has been reproduced.
   
     <p align="center"><img width="60%" src="./README.assets/HSV_colour_model.png"></p>
   
-  <center>Key frame detection diagram based on HSV Color Model</center>
+  <p align="center">Key frame detection diagram based on HSV Color Model</p>
 
 ## Reference 
 
