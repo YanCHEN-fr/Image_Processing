@@ -12,31 +12,31 @@ In this project, the paper[1] has been reproduced.
 
   <p align="center"><img width="60%" src="./README.assets/ORB.png"></p>
 
-  <center>nfeatures = 250, scalarFactor = 1.1, nlevels = 3</center>
+  <p align="center">nfeatures = 250, scalarFactor = 1.1, nlevels = 3</p>
 
 * KAZE
 
   <p align="center"><img width="60%" src="./README.assets/KAZE.png"></p>
 
-<center>Threshold = 0.001, nOctaves = 4, nOctave- Layers= 4, diffusivity = 2</center>
+<p align="center">Threshold = 0.001, nOctaves = 4, nOctave- Layers= 4, diffusivity = 2</p>
 
 * FLANN
 
 <p align="center"><img width="60%" src="./README.assets/FLANN.png"></p>
 
-<center>FLANN & KAZE</center>
+<p align="center">FLANN & KAZE</p>
 
 * RatioTest
 
   <p align="center"><img width="60%" src="./README.assets/RatioTest.png"></p>
 
-<center>RatioTest & KAZE</center>
+<p align="center">RatioTest & KAZE</p>
 
 * CrossCheck
 
   <p align="center"><img width="60%" src="./README.assets/CrossCheck.png"></p>
 
-<center>CrossCheck & KAZE</center>
+<p align="center">CrossCheck & KAZE</p>
 
 ## 2. Video trimming and indexing
 
@@ -49,7 +49,7 @@ In this project, the paper[1] has been reproduced.
   
     <p align="center"><img width="80%" src="./README.assets/optical_flow.png"></p>
   
-  <center>First row: the original frames of a consequence. Second row: the 2d histograms corresponding to the joint probability of the components (Vx, Vy) belonging to original frames of a consequence</center>
+  <p align="center">First row: the original frames of a consequence. Second row: the 2d histograms corresponding to the joint probability of the components (Vx, Vy) belonging to original frames of a consequence</p>
   
   * Base on frame-by-frame difference
   
