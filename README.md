@@ -10,31 +10,31 @@ In this project, the paper[1] has been reproduced.
 
 * ORB
 
-  ![ORB](./README.assets/ORB.png)
+  <p align="center"><img width="60%" src="./README.assets/ORB.png"></p>
 
   <center>nfeatures = 250, scalarFactor = 1.1, nlevels = 3</center>
 
 * KAZE
 
-  ![KAZE](./README.assets/KAZE.png)
+  <p align="center"><img width="60%" src="./README.assets/KAZE.png"></p>
 
 <center>Threshold = 0.001, nOctaves = 4, nOctave- Layers= 4, diffusivity = 2</center>
 
 * FLANN
 
-![FLANN](./README.assets/FLANN.png)
+<p align="center"><img width="60%" src="./README.assets/FLANN.png"></p>
 
 <center>FLANN & KAZE</center>
 
 * RatioTest
 
-![RatioTest](./README.assets/RatioTest.png)
+  <p align="center"><img width="60%" src="./README.assets/RatioTest.png"></p>
 
 <center>RatioTest & KAZE</center>
 
 * CrossCheck
 
-![CrossCheck](./README.assets/CrossCheck.png)
+  <p align="center"><img width="60%" src="./README.assets/CrossCheck.png"></p>
 
 <center>CrossCheck & KAZE</center>
 
@@ -47,20 +47,21 @@ In this project, the paper[1] has been reproduced.
 * Key frame detection
   * Base on optical flow
   
-    ![截屏2021-06-16 17.39.27](/Users/apple/Desktop/Image_Processing/README.assets/截屏2021-06-16 17.39.27.png)
+    <p align="center"><img width="80%" src="./README.assets/optical_flow.png"></p>
   
   <center>First row: the original frames of a consequence. Second row: the 2d histograms corresponding to the joint probability of the components (Vx, Vy) belonging to original frames of a consequence</center>
   
   * Base on frame-by-frame difference
   
-  ![fram_by_fram](./README.assets/Frame_nexthsv0065.png)
+    <p align="center"><img width="60%" src="./README.assets/Frame_nexthsv0065.png"></p>
   
   * Based on the HSV colour model[1]
   
-  ![HSV colour model](./README.assets/HSV_colour_model.png)
+    <p align="center"><img width="60%" src="./README.assets/HSV_colour_model.png"></p>
   
   <center>Key frame detection diagram based on HSV Color Model</center>
 
 ## Reference 
 
 [1] Zhi-min XIAO et al. “Shot Segmentation Based on HSV Color Model [J]”. In : Journal of Xiamen University (Natural Science) 5 (2008).
+
